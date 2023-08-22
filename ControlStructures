@@ -1,0 +1,19 @@
+fun main() {
+    
+    val lowTemperature = 97.5
+    val highTemperature = 99.5
+
+    
+    val temperature = (92.0..104.0).random()
+
+    println("Current temperature: $temperature")
+
+    
+    if (temperature < lowTemperature) {
+        println("The temperature is low.")
+    } else if (temperature >= lowTemperature && temperature <= highTemperature) {
+        println("The temperature is normal.")
+    } else {
+        println("The temperature is high.")
+    }
+}
