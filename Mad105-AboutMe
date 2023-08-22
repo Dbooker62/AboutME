@@ -1,0 +1,7 @@
+fun main(args: Array<String>) {
+println("Hi, Hello everyone I'm Daniel Booker. I'm taking this class because of the demand for mobile developers, especially those skilled in Android. It offers good career opportunities. Android dominates the smartphone market share, making it an appealing platform for developers. Developers can create a wide range of apps from games to productivity tools, social media, and more.\n" +
+        "\n" +
+        "I'm pursuing my AAS in Mobile Design and Development. My background here is SQL/DATABASE,  GRAPHIC DESIGN, PROGRAMMING LOGIC, MICROSOFT OFFICE 365/2019, Adobe XD and Net 105.\n" +
+        "\n" +
+        "I enjoy working around in the yard and trying to keep up with our garden.")
+}
