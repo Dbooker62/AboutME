@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="348a858b-3cde-4107-a987-b32d51ce8405" name="Kotlin" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\17736\Desktop\IntelliJ IDEA 2023.2\jbr\bin\Kotlin" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
